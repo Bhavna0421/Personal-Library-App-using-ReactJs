@@ -1,0 +1,134 @@
+html {
+  background-color: white;
+}
+.bookForm {
+  display: grid;
+  width: 39rem;
+  height: 23rem;
+  border: solid black 4px;
+  border-radius: 20px;
+  margin: auto auto 40px;
+  padding: 10px;
+  background-color: mediumpurple;
+  color: white;
+  align-content: center;
+  margin-right: 4rem;
+  font-weight: 800;
+  margin-top: -4rem;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.container1 {
+  background-color: white;
+  height: 24rem;
+  width: auto;
+ margin: 1rem;
+}
+
+.card1 {
+  height: 4rem;
+  margin-left: 1rem;
+  padding: 1rem;
+  
+}
+#bookName {
+  margin: 8px;
+}
+#bookAuthor {
+  margin: 8px;
+}
+#bookISBN {
+  margin: 8px;
+}
+#bookYear{
+  margin: 8px;
+}
+#bookDescription{
+  margin: 8px;
+}
+#read {
+  margin: 8px;
+}
+#submit {
+  margin: 8px;
+  border: solid black 2px;
+  border-radius: 8px;
+}
+table {
+  width: 800px;
+  margin: 0px auto;
+  border: solid black 2px;
+  margin-top: 7rem;
+}
+table,
+th,
+td {
+  border-collapse: collapse;
+}
+th,
+td {
+  border: solid 2px black;
+  padding: 13px;
+  background-color: mediumpurple;
+  color: white;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+th {
+  text-align: left;
+  background-color: mediumpurple;
+  color: white;
+}
+#settings {
+  width: 200px;
+}
+#settings > * {
+  margin: 4px;
+  border: solid black 2px
+}
+.Header {
+   display: flex;
+    color: white;
+    width: auto;
+    height: 7rem;
+    background-color: rebeccapurple;
+    margin-left: 1rem;
+    margin-top: 0.3rem;
+    margin-right: 1rem;
+    }
+.Header > p {
+  margin-left: 24rem;
+  margin-right: auto;
+}
+.Footer {
+  text-align: center;
+  background-color: rebeccapurple;
+  color: white;
+  margin-top: 35rem;
+}
+#logoHeader {
+  margin-right: 10px;
+  margin-left: auto;
+  width: 40px;
+  height: 40px;
+}
+img {
+  width: 15rem;
+  height: 7rem;
+}
+#footerLogo {
+  width: 20px;
+  height: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  .bookForm,
+  table {
+    width: auto;
+    table-layout: fixed;
+  }
+  td {
+    word-break: break-all;
+  }
+}
+.container1{
+  background-image: cover;
+}

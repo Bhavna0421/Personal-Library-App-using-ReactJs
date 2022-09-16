@@ -1,0 +1,54 @@
+.card1{
+    margin-left: -0.5rem;
+   
+}
+.inner {
+    position: absolute;
+    top: 11rem;
+    left: 24rem;
+    height: 26rem;
+    width: 36rem;
+    background-color: white;
+    color: black;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    opacity: 0.8;
+    vertical-align: center;
+
+
+
+}
+
+.inner:hover {
+    box-shadow: 0 0 20px 0px rgb(0, 0, 0.2);
+}
+/* title aub title in inner container */
+.sub-title {
+    text-align: center;
+    padding-top: 1rem;
+    text-align: justify;
+    font-weight: bolder;
+
+
+}
+.title {
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 0rem;
+    margin-top: 1rem;
+
+}
+
+.title1 {
+    text-align: center;
+    font-size: 2rem;
+    text-transform: uppercase;
+    padding: 1rem;
+    font-weight: bolder;
+}
+
+.btn-container1 {
+    display: flex;
+    justify-content: center;
+
+}
