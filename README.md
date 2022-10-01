@@ -30,7 +30,7 @@ I also took an efforts on making good UI.
 ![add book](https://user-images.githubusercontent.com/98327416/192082326-c2663c3b-d71c-46d0-9e70-d9af77465ecb.png)
 
 
-##  Loom vedio for better experience
+##  Loom video for better experience
 
 
 https://www.loom.com/share/3c9e220961854b6bbc9a8560faca66f0
