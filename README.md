@@ -33,7 +33,7 @@ I also took an efforts on making good UI.
 ##  Loom video for better experience
 
 
-https://www.loom.com/share/3c9e220961854b6bbc9a8560faca66f0
+https://www.loom.com/share/ba21f5055afd4b748fc4bbce94630fff
 
 
 ## 🔗 Links
